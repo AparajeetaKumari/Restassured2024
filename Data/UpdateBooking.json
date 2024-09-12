@@ -1,0 +1,13 @@
+[
+	"booking": {
+	        "firstname": "Benhur",
+	        "lastname": "Kachhap",
+	        "totalprice": 3000,
+	        "depositpaid": false,
+	        "bookingdates": {
+	            "checkin": "2024-10-12",
+	            "checkout": "2024-10-17"
+	        },
+	        "additionalneeds": "Need non-veg meal"
+	    }
+]
